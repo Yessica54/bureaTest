@@ -19,5 +19,5 @@ npm run dev
 
 ## Video Demo
 
-[a link](demo.mp4)
+[Video Demo](demo.mp4)
 
